@@ -1,1 +1,1 @@
-print("Halo Galaxy")
+print("Halo Galaxy!")
